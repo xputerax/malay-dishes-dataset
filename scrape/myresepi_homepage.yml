@@ -1,0 +1,3348 @@
+metadata:
+    name: myresepi homepage
+    url: https://myresepi.com/senarai-resepi/
+links:
+    -   title: Resepi Cucur Cendawan Enoki
+        url: https://myresepi.com/resepi-cendawan-enoki/
+        ingredients: [
+            3 paket cendawan enoki dibasuh dan ditoskan,
+            1½ cawan tepung gandum,
+            ½ cawan tepung bestari,
+            1½ cawan air,
+            1 biji telur,
+            1 sk serbuk kunyit,
+            daun kari (dimayang),
+            daun bawang (dimayang),
+            garam,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: Resepi Cendawan Enoki Salted Egg Rangup
+        url: https://myresepi.com/resepi-cendawan-enoki/
+        ingredients: [
+            3 bungkus Cendawan Enoki,
+            2 biji telur ayam,
+            Tepung goreng serbaguna seri aji,
+            Cili padi,
+            Daun kari,
+            3 biji Telur masin (rebus, ambil kuning telur sahaja dan hancurkan),
+            Butter,
+            5 ulas bawang putih (cincang halus),
+            Maggi cukup Rasa,
+            Gula,
+            Minyak untuk menggoreng,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: Resepi Anju Enoki Butter
+        url: https://myresepi.com/resepi-cendawan-enoki/
+        ingredients: [
+            Cendawan enoki,
+            Mentega,
+            Bawang putih (didadu),
+            Kiub pati ayam/Serbuk pati ayam/Stok ayam/Mushroom seasoning (boleh guna mana),
+            Sedikit air,
+            Chilli flakes,
+            Perahan lemon,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: Resepi Popia Enoki
+        url: https://myresepi.com/resepi-cendawan-enoki/
+        ingredients: [
+            Cendawan enoki,
+            Kulit popia size kecil,
+            Tepung gandum,
+            Tepung bestari,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+
+    -   title: Resepi Ikan Bawal Steam Chinese Style
+        url: https://myresepi.com/resepi-ikan-bawal-masak-kicap/
+        ingredients: [
+            Ikan Bawal dibasuh bersih,
+            Halia potong batang mancis,
+            Batang Daun Bawang,
+            Cili Padi,
+            Bawang Putih,
+            Kicap Cair 2 sudu besar,
+            Sos Tiram 1 sudu besar,
+            Minyak Bijan 1 sudu besar,
+            Gula ½ sudu,
+            Bawang putih digoreng hingga keemasan tutup api letak bahagian batang daun bawang yang dimayang kemudian curah diatas ikan,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+
+    -   title: Resepi Ikan Bawal Masak Kicap Pedas
+        url: https://myresepi.com/resepi-ikan-bawal-masak-kicap/
+        ingredients: [
+            Ikan Bawal Emas di bersihkan dan di goreng setengah masak,
+            Bawang besar (di hiris),
+            Cili besar hijau /merah(di potong dadu),
+            Sos tomato,
+            Sos tiram,
+            Kicap masin,
+            Kicap manis,
+            Kulit kayu manis,
+            Bawang besar,
+            Bawang Putih,
+            Halia,
+            Cili kering,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+
+    -   title: Resepi Ikan Bawal Hitam Masak Kicap
+        url: https://myresepi.com/resepi-ikan-bawal-masak-kicap/
+        ingredients: [
+            2 ekor ikan bawal,
+            1 Bawang merah besar,
+            2 batang kayu manis Sri Lanka Cinnamon Legend Malaysia,
+            Cili merah untuk hiasan,
+            Kicap manis,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+
+    -   title: Resepi Bawal Emas Steam Kicap
+        url: https://myresepi.com/resepi-ikan-bawal-masak-kicap/
+        ingredients: [
+            Bawang besar 1bj,
+            Bawang putih 3 ulas,
+            Halia secukupnya,
+            Cili api,
+            Cuci ikan bersih,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+
+    -   title: 4 Resepi Kuih Cara Manis (Lembut, Garing dan Meleleh)
+        url: https://myresepi.com/resepi-kuih-cara-manis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Jenahak (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-jenahak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Tongkol (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-tongkol/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Belanak (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-belanak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Belut (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-belut/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Talam Suji (Kuih Legend)
+        url: https://myresepi.com/resepi-talam-suji/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Dadar (Sedap, Buat Gebu atau Rangup)
+        url: https://myresepi.com/resepi-telur-dadar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Getas (Rangup dan Manis Berlemak)
+        url: https://myresepi.com/resepi-kuih-getas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Kasturi (Kuih Rengas atau Kuih Kacang Hijau)
+        url: https://myresepi.com/resepi-kuih-kasturi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi King Crab (Ketam Viral)
+        url: https://myresepi.com/resepi-king-crab/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Kaci (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-kaci/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Daging Kijang (Eksotik Tapi Sedap)
+        url: https://myresepi.com/resepi-daging-kijang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kulat Sisir (Rangup Bila Makan)
+        url: https://myresepi.com/resepi-kulat-sisir/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Goreng Bawang Putih Viral
+        url: https://myresepi.com/resepi-ayam-goreng-bawang-putih/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Buko Buah (Cocktail Dessert)
+        url: https://myresepi.com/resepi-buko-buah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sambal Kicap Johor
+        url: https://myresepi.com/resepi-sambal-kicap-johor/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Rebus (Mudah dan Kenyang)
+        url: https://myresepi.com/resepi-telur-rebus/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Lawar Terung (Terung Bakar Bersantan)
+        url: https://myresepi.com/resepi-lawar-terung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Itik Salai (Masak Lemak & Panggang)
+        url: https://myresepi.com/resepi-itik-salai/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sawi (Sayur Yang Sedap & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-sawi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Asparagus (Sedap & Cara Masak Mudah)
+        url: https://myresepi.com/resepi-asparagus/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Belangkas (Unik Tapi Sedap)
+        url: https://myresepi.com/resepi-belangkas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuah Yong Tau Fu (Kuah Pekat dan Manis)
+        url: https://myresepi.com/resepi-kuah-yong-tau-fu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kupang (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-kupang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Miang Pla (Ikan Talapia Goreng & Sos Hijau)
+        url: https://myresepi.com/resepi-miang-pla/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Mayong (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-mayong/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Burung Wak Wak (Goreng & Masak Kicap)
+        url: https://myresepi.com/resepi-burung-wak-wak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kunafa Yang Simple & Sedap
+        url: https://myresepi.com/resepi-kunafa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: What is Mee Goreng Mamak?
+        url: https://myresepi.com/what-is-mee-goreng-mamak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Ikan (Sedap Masak Kari & Masak Lemak)
+        url: https://myresepi.com/resepi-telur-ikan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mee Kuning (Homemade & Aneka Masakan)
+        url: https://myresepi.com/resepi-mee-kuning/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Burung Puyuh (Sedap & Mudah Nak Masak)
+        url: https://myresepi.com/resepi-telur-burung-puyuh/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kangkung (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-kangkung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Agar-Agar Sirap (Agar-Agar Legend)
+        url: https://myresepi.com/resepi-agar-agar-sirap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kek Tapak Kuda (Lembut & Gebu)
+        url: https://myresepi.com/resepi-kek-tapak-kuda/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Daging Salai Masak Lemak (Pedas Berapi!)
+        url: https://myresepi.com/resepi-daging-salai-masak-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Lompat Tikam (Manis, Mudah & Sedap)
+        url: https://myresepi.com/resepi-lompat-tikam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pad Kra Pao (Makanan Thailand)
+        url: https://myresepi.com/resepi-pad-kra-pao/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Lobak Putih (Lauk Berpantang Selepas Bersalin)
+        url: https://myresepi.com/resepi-lobak-putih/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Udang Harimau (Sedap & Mudah Nak Masak)
+        url: https://myresepi.com/resepi-udang-harimau/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Kering (Ada Pelbagai Cara Masakan)
+        url: https://myresepi.com/resepi-sotong-kering/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sayur Pak Choy (Simple & Sedap)
+        url: https://myresepi.com/resepi-sayur-pak-choy/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kurma Telur (Kuah Pekat Dan Likat)
+        url: https://myresepi.com/resepi-kurma-telur/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ketupat Sotong (Rasa Lemak Manis Yang Lazat)
+        url: https://myresepi.com/resepi-ketupat-sotong/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Takoyaki (Buat Sendiri Berbaloi)
+        url: https://myresepi.com/resepi-takoyaki/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi English Breakfast (Sarapan Pagi Ala Inggeris)
+        url: https://myresepi.com/resepi-english-breakfast/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Bilis (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-bilis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Daging Paprik (Menu Simple Tapi Sedap)
+        url: https://myresepi.com/resepi-daging-paprik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Patin (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-patin/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Donut Susu Gebu & Viral
+        url: https://myresepi.com/resepi-donut-susu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Yee Sang (Hidangan Tahun Baru Cina)
+        url: https://myresepi.com/resepi-yee-sang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Donut Red Velvet Viral
+        url: https://myresepi.com/resepi-donut-red-velvet/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Goreng Kunyit (Mudah dan Sedap)
+        url: https://myresepi.com/resepi-sotong-goreng-kunyit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Goreng Kunyit (Rangup & Berempah)
+        url: https://myresepi.com/resepi-ayam-goreng-kunyit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Kelapa Dulu-Dulu (Memang Legend!)
+        url: https://myresepi.com/resepi-biskut-kelapa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Coleslaw Ala KFC
+        url: https://myresepi.com/resepi-coleslaw/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti Sarang Lebah (Gebu & Lembut)
+        url: https://myresepi.com/resepi-roti-sarang-lebah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Caramel Sauce (Sos Karamel Homemade Sedap)
+        url: https://myresepi.com/resepi-caramel-sauce/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kurma Kambing Mamak (Dapat Kuah Pekat)
+        url: https://myresepi.com/resepi-kurma-kambing-mamak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Okonomiyaki (Pancake Jepun)
+        url: https://myresepi.com/resepi-okonomiyaki/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Serai (Semerbak Bau Harum Serai)
+        url: https://myresepi.com/resepi-nasi-serai/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Merah (Sedap Masak Apa?)
+        url: https://myresepi.com/resepi-ikan-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Air (Sedap, Mudah & Mengenyangkan)
+        url: https://myresepi.com/resepi-nasi-air/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Talapia (Masak Apa Sedap?)
+        url: https://myresepi.com/resepi-ikan-talapia/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mee Suah (Simple & Sihat, Sesuai Untuk Diet)
+        url: https://myresepi.com/resepi-mee-suah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pulut Sekaya (Kuih Dari Kelantan)
+        url: https://myresepi.com/resepi-pulut-sekaya/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Kerisi (Masak Apa Sedap?)
+        url: https://myresepi.com/resepi-ikan-kerisi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sos Thai Daun Ketumbar (Boleh Simpan Lama)
+        url: https://myresepi.com/resepi-sos-thai-daun-ketumbar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Kembung (Murah, Sedap & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-ikan-kembung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Terung Berlada (Pedas Terangkat)
+        url: https://myresepi.com/resepi-terung-berlada/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bihun Sup Utara (Resipi Original Kedah & Sambal Merah)
+        url: https://myresepi.com/resepi-bihun-sup-utara/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Ayam Madu (Simple, Sedap & Cepat Siap)
+        url: https://myresepi.com/resepi-nasi-ayam-madu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Ketayap (Kulit Lembut dan Inti Padat)
+        url: https://myresepi.com/resepi-kuih-ketayap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Agar Agar Santan (Rasa Lemak dan Manis)
+        url: https://myresepi.com/resepi-agar-agar-santan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Kuih Mudah dan Cepat (Idea Juadah Petang)
+        url: https://myresepi.com/resepi-kuih-mudah-dan-cepat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kailan Ikan Masin (Simple & Sedap)
+        url: https://myresepi.com/resepi-kailan-ikan-masin/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Donut Lembut dan Ringan (Confirm Jadi Jika Ikut Step)
+        url: https://myresepi.com/resepi-donut-lembut-dan-ringan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Dalca Daging (Sedap, Mudah & Menyelerakan)
+        url: https://myresepi.com/resepi-dalca-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Agar Agar Milo (Dessert Paling Mudah)
+        url: https://myresepi.com/resepi-agar-agar-milo/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sambal Kerang (Manis Pedas Secukup Rasa)
+        url: https://myresepi.com/resepi-sambal-kerang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bubur Ayam McD (Simple, Mudah & Berkhasiat)
+        url: https://myresepi.com/resepi-bubur-ayam-mcd/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Ayam Berkuah Tanpa Santan (Mudah & Sedap)
+        url: https://myresepi.com/resepi-ayam-berkuah-tanpa-santan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Beriani Johor (Sedap & Cara Buat Pun Mudah)
+        url: https://myresepi.com/resepi-nasi-beriani/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Tenggiri (Aneka Masakan Yang Sedap & Simple)
+        url: https://myresepi.com/resepi-ikan-tenggiri/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Sardin Masak Lemak Cili Api (Sedap & Simple)
+        url: https://myresepi.com/resepi-ikan-sardin-masak-lemak-cili-api/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Keria Gula Melaka (Rangup dan Lembut)
+        url: https://myresepi.com/resepi-kuih-keria-gula-melaka/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Masak Thai (Masam, Manis & Pedas)
+        url: https://myresepi.com/resepi-sotong-masak-thai/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mee Jawa Sarawak (Menu Popular Dari Sarawak)
+        url: https://myresepi.com/resepi-mee-jawa-sarawak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Zebra Cake (Cara Buat Kek Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-zebra-cake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Keropok Lekor Cheese (Resipi Viral Yang Mudah)
+        url: https://myresepi.com/resepi-keropok-lekor-cheese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Sizzling Yee Mee Simple (Sedap & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-sizzling-yee-mee/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Pindang Simple (Mudah & Ringkas, Style Johor)
+        url: https://myresepi.com/resepi-telur-pindang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Carrot Cake Moist (Simple, Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-carrot-cake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Lapis (Nak Mudah Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-kuih-lapis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Goreng Mamak Simple (Rangup Bila Makan)
+        url: https://myresepi.com/resepi-ayam-goreng-mamak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sup Gearbox Sedap (Power, Kuah Pekat & Padu)
+        url: https://myresepi.com/resepi-sup-gearbox/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kari Udang (Kuah Pekat dan Terangkat)
+        url: https://myresepi.com/resepi-kari-udang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Bawal (Masak Sos, 3 Rasa, Sweet Sour & Kari)
+        url: https://myresepi.com/resepi-ikan-bawal/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Kuih Mudah Guna Tepung Gandum (Simple Sangat!)
+        url: https://myresepi.com/resepi-kuih-mudah-guna-tepung-gandum/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bangkit Cheese (Melting, Cair di Mulut)
+        url: https://myresepi.com/resepi-bangkit-cheese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Egg Drop Soup (Mudah & Simple, Makan Bila Tak Sihat)
+        url: https://myresepi.com/resepi-egg-drop-sup/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Maggi Goreng Tanpa Perencah (Simple Tapi Padu)
+        url: https://myresepi.com/resepi-maggi-goreng-tanpa-perencah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 5 Resepi Udang Masak Merah (Ada Rasa Manis & Pedas)
+        url: https://myresepi.com/resepi-udang-masak-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Masak Sos Tiram Simple Ala Cina (Letak Halia)
+        url: https://myresepi.com/resepi-ayam-masak-sos-tiram/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Eclair (Biskut & Kek Dari Perancis)
+        url: https://myresepi.com/resepi-eclair/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Meatball IKEA Simple (Bebola Daging Ala Swedish)
+        url: https://myresepi.com/resepi-meatball-ikea/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Chicken Chop Simple (Mudah, Sedap & Rangup)
+        url: https://myresepi.com/resepi-chicken-chop/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Egg Tart Portugis (Mudah Nak Buat & Jimat)
+        url: https://myresepi.com/resepi-egg-tart/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cucur Udang (Confirm Rangup & Sedap)
+        url: https://myresepi.com/resepi-cucur-udang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Lempeng Kelapa (Tebal, Gebu & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-lempeng-kelapa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Homemade Pizza Lembut (Mudah & Jimat, Anak Suka)
+        url: https://myresepi.com/resepi-homemade-pizza/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Apam Kuah Terengganu (Sedap & Berkuah)
+        url: https://myresepi.com/resepi-apam-kuah-terengganu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Goreng McD (Homemade Ala McDonalds)
+        url: https://myresepi.com/resepi-ayam-goreng-mcd/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mee Kuah Tulang (Sedap & Daging Empuk)
+        url: https://myresepi.com/resepi-mee-kuah-tulang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Nasi Goreng Sedap (Juadah Penyelamat)
+        url: https://myresepi.com/resepi-nasi-goreng-sedap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jem Nenas (Ada Homemade & Inti Kek Gulung)
+        url: https://myresepi.com/resepi-jem-nenas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Waffle Mudah (Ada Pelbagai Perisa)
+        url: https://myresepi.com/resepi-waffle-mudah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pengat Pisang Simple (Letak Sagu Pun Sedap)
+        url: https://myresepi.com/resepi-pengat-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ketupat Dakap (Menu Popular Kelantan)
+        url: https://myresepi.com/resepi-ketupat-dakap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Zeppole Italy (Malaysia Panggil Kuih Bomboloni)
+        url: https://myresepi.com/resepi-zeppole/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Egg Muffin (Mudah dan Sihat)
+        url: https://myresepi.com/resepi-egg-muffin/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Aiskrim Malaysia (Pelbagai Perasa Boleh Cuba)
+        url: https://myresepi.com/resepi-aiskrim-malaysia/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 8 Resepi Cucur Manis Simple (Ada Kembung, Lembut & Rangup)
+        url: https://myresepi.com/resepi-cucur-manis-simple/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bubur Lambuk (Menu Popular Bulan Puasa)
+        url: https://myresepi.com/resepi-bubur-lambuk/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Daging Bakar Simple (Ala Danok Thai, Guna Air Fryer)
+        url: https://myresepi.com/resepi-daging-bakar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Air Katira (Asli dari Johor)
+        url: https://myresepi.com/resepi-air-katira/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Churros (Rangup Bersama Sos Coklat)
+        url: https://myresepi.com/resepi-churros/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Puding Buah (Rasa Manis dan Sejuk)
+        url: https://myresepi.com/resepi-puding-buah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Quinoa (Makanan Diet Untuk Kurus, Ganti Nasi)
+        url: https://myresepi.com/resepi-quinoa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Mee Kari Sedap (Nyonya & Chinese Style)
+        url: https://myresepi.com/resepi-mee-kari-sedap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Tauhu Sumbat (Sesuai Untuk Juadah Minum Petang)
+        url: https://myresepi.com/resepi-tauhu-sumbat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Geprek (Pedas dan Rangup)
+        url: https://myresepi.com/resepi-ayam-geprek/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Air Jagung (Cukup Mudah dan Menyegarkan)
+        url: https://myresepi.com/resepi-air-jagung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti John (Buat Sendiri Confirm Puas Hati)
+        url: https://myresepi.com/resepi-roti-john/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 5 Resepi Telur Separuh Masak (Guna Air Fryer Pun Boleh)
+        url: https://myresepi.com/resepi-telur-separuh-masak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fruit Cocktail (Lagi Sedap Kalau Ada Buah Segar)
+        url: https://myresepi.com/resepi-fruit-cocktail/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Kari Ayam Tanpa Santan (Sedap, Pekat & Berempah)
+        url: https://myresepi.com/resepi-kari-ayam-tanpa-santan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Queen Cake (Old School Cake)
+        url: https://myresepi.com/resepi-queen-cake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fish Cake (Pelbagai Versi Untuk Anda Cuba)
+        url: https://myresepi.com/resepi-fish-cake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Vadai (Vade Ulundu, Masala & Medhu)
+        url: https://myresepi.com/resepi-vadai/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Murtabak Popia Mini (Isi Ayam, Sardin & Cheese)
+        url: https://myresepi.com/resepi-murtabak-popia/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Quesadilla (Makanan Popular Mexico)
+        url: https://myresepi.com/resepi-quesadilla/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Tomyam Putih (Mudah Nak Buat Tanpa Pes)
+        url: https://myresepi.com/resepi-tomyam-putih/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Udang Goreng Tepung (Rangup dan Menyelerakan)
+        url: https://myresepi.com/resepi-udang-goreng-tepung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Vanilla Cake (Kek Span & Butter)
+        url: https://myresepi.com/resepi-vanilla-cake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Honey Butter Cornflakes (Mudah Nak Buat dan Rangup)
+        url: https://myresepi.com/resepi-honey-butter-cornflakes/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pau Goreng (Paling Mudah Guna BreadMaker)
+        url: https://myresepi.com/resepi-pau-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Wedges Ala KFC (Guna Air Fryer)
+        url: https://myresepi.com/resepi-wedges/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Xiao Long Bao (Sup Dumpling Chinese Style)
+        url: https://myresepi.com/resepi-xiao-long-bao/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pengat Labu (Untuk Minum Petang, Manis dan Berlemak)
+        url: https://myresepi.com/resepi-pengat-labu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti Sosej Simple (Cheese Gulung & Mayonis)
+        url: https://myresepi.com/resepi-roti-sosej/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sambal Belacan (Pedas, Sedap dan Mudah)
+        url: https://myresepi.com/resepi-sambal-belacan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Serunding Daging (Complicated Tapi Hasil Berbaloi)
+        url: https://myresepi.com/resepi-serunding-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Onion Ring (Ala A&W, Rangup Dan Spicy)
+        url: https://myresepi.com/resepi-onion-ring/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Zucchini (Sejenis Labu Popular Di Amerika)
+        url: https://myresepi.com/resepi-zucchini/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Sumbat (Ada Telur, Ala Thai, Bakar dan Percik)
+        url: https://myresepi.com/resepi-sotong-sumbat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Victoria Sandwich (Roti & Kek Sukatan Cawan)
+        url: https://myresepi.com/resepi-victoria-sandwich/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Hash Brown (Sarapan Pagi English Style)
+        url: https://myresepi.com/resepi-hash-brown/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ikan Nyok Nyok (Masak Sambal, Pedas, Asam & Kari)
+        url: https://myresepi.com/resepi-ikan-nyok-nyok/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mee Wantan (Sup Chinese Style & Kicap)
+        url: https://myresepi.com/resepi-mee-wantan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: '4 Resepi Dumpling Ayam (Simple, Mudah & Sedap: Chinese Style)'
+        url: https://myresepi.com/resepi-dumpling-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Otak-Otak (Ikan & Ayam, Style Ala Kempas Johor)
+        url: https://myresepi.com/resepi-otak-otak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Bakar BBQ (Style Panggang Madu, Sos BBQ)
+        url: https://myresepi.com/resepi-ayam-bakar-bbq/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jagung Manis Dalam Tin (Manis & Lemak Berkrim)
+        url: https://myresepi.com/resepi-jagung-manis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Tempoyak Durian (Ikan Patin & Sambal Bilis)
+        url: https://myresepi.com/resepi-tempoyak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Air Cocktail (Koktel Sedap Letak Buah & Soda)
+        url: https://myresepi.com/resepi-air-cocktail/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Murtabak (Rangup dan Inti Yang Tebal)
+        url: https://myresepi.com/resepi-murtabak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Bungkus (Simple Tapi Mengenyangkan)
+        url: https://myresepi.com/resepi-telur-bungkus/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Maggi Goreng (Simple & Sedap, Macam Kedai Mamak)
+        url: https://myresepi.com/resepi-maggi-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Lopes (Boleh Guna Rice Cooker)
+        url: https://myresepi.com/resepi-kuih-lopes/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Quaker Oat (Sedap, Sesuai Untuk Diet & Kurus)
+        url: https://myresepi.com/resepi-quaker-oat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Spiral Goreng (Simple, Sesuai Dengan Citarasa Melayu)
+        url: https://myresepi.com/resepi-spiral-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Muffin Pisang (Rasa Coklat, Sedap Letak Chocolate Chip)
+        url: https://myresepi.com/resepi-muffin-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sup Makaroni (Sihat dan Penuh Khasiat)
+        url: https://myresepi.com/resepi-sup-makaroni/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Egg Roll (Ada Tekniknya, Mudah Sahaja)
+        url: https://myresepi.com/resepi-egg-roll/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Gulai Udang (Cukup Mudah dan Menyelerakan)
+        url: https://myresepi.com/resepi-gulai-udang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jelatah (Pelengkap Hidangan Nasi)
+        url: https://myresepi.com/resepi-jelatah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pani Puri Mudah (Rahsia Cara Buat PaniPuri Sedap)
+        url: https://myresepi.com/resepi-pani-puri/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi German Cookies (Biskut Warna-Warni Memikat Hati)
+        url: https://myresepi.com/resepi-german-cookies/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Hummus (Boleh Guna Tahini & Kacang Kuda)
+        url: https://myresepi.com/resepi-hummus/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Apam Balik (Ikut Citarasa Anda, Gebu Atau Rangup)
+        url: https://myresepi.com/resepi-apam-balik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Egg Tofu (Pelbagai Rasa, Enak Belaka)
+        url: https://myresepi.com/resepi-egg-tofu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Hati Ayam (Pelbagai Resepi Yang Mudah)
+        url: https://myresepi.com/resepi-hati-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jantung Pisang (Enak Makan Bersama Nasi Panas)
+        url: https://myresepi.com/resepi-jantung-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Hati Lembu (Mudah dan Menyelerakan)
+        url: https://myresepi.com/resepi-hati-lembu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Honey Butter Biscuit (Hanya Guna AirFryer )
+        url: https://myresepi.com/resepi-honey-butter-biscuit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fruit Tart (Penuh dengan Buah-buahan Segar)
+        url: https://myresepi.com/resepi-fruit-tart/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Hotteok (Street Food Popular Korea)
+        url: https://myresepi.com/resepi-hotteok/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Salted Egg (Rasa Juicy & Lemak Masin)
+        url: https://myresepi.com/resepi-sotong-salted-egg/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sup Tulang Merah Singapore (Gearbox)
+        url: https://myresepi.com/resepi-sup-tulang-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Goreng Seafood (Buat Sendiri Lagi Puas Hati)
+        url: https://myresepi.com/resepi-nasi-goreng-seafood/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Puding Trifle (Mudah dan Sesuai Untuk Minum Petang)
+        url: https://myresepi.com/resepi-puding-trifle/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cucur Sayur (Rangup dan Simple)
+        url: https://myresepi.com/resepi-cucur-sayur/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fish Ball (Mudah dan Confirm Halal)
+        url: https://myresepi.com/resepi-fish-ball/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fluffy Pancake (Sarapan Pagi yang Simple dan Kenyang)
+        url: https://myresepi.com/resepi-fluffy-pancake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fudgy Brownies (Tak Berapa Manis dan Mudah)
+        url: https://myresepi.com/resepi-fudgy-brownies/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi French Toast (Idea Sarapan Pagi Yang Mudah)
+        url: https://myresepi.com/resepi-french-toast/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nutella Cheese Tart (Gebu dan Sangat Moist)
+        url: https://myresepi.com/resepi-nutella-cheese-tart/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Dalca Ayam (Penuh Dengan Rasa Rempah)
+        url: https://myresepi.com/resepi-dalca-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Laksa Lemak Kelantan (Hanya Di Kelantan Sahaja)
+        url: https://myresepi.com/resepi-laksa-lemak-kelantan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Acar Limau (Masam, Manis dan Pedas)
+        url: https://myresepi.com/resepi-acar-limau/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Telur Terengganu (Menu Zaman Silam Istana Terengganu)
+        url: https://myresepi.com/resepi-nasi-telur-terengganu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sea Salt Chocolate Chip Cookies (Viral & Sedap)
+        url: https://myresepi.com/resepi-sea-salt-chocolate-cookies/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jajangmyeon (Yang Pasti Halal dan Confirm Sedap)
+        url: https://myresepi.com/resepi-jajangmyeon/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bubur Gandum (Sesuai Untuk Minum Petang)
+        url: https://myresepi.com/resepi-bubur-gandum/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Goreng Belacan (Mudah, Cepat Dan Sedap)
+        url: https://myresepi.com/resepi-nasi-goreng-belacan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Air Mangga (Sedap Letak Susu, Rasa Jus Yang Fresh)
+        url: https://myresepi.com/resepi-air-mangga/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Goreng Pattaya (Mudah dan Sesuai Untuk Seisi Keluarga)
+        url: https://myresepi.com/resepi-nasi-goreng-pattaya/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti Croissant (Pelbagai Menu Yang Mudah dan Sihat)
+        url: https://myresepi.com/resepi-roti-croissant/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bengkang (Pelbagai Versi Yang Cukup Mudah)
+        url: https://myresepi.com/resepi-bengkang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Masak Merah Kenduri (Lauk Simple & Sedap)
+        url: https://myresepi.com/resepi-ayam-masak-merah-kenduri/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Masak Hitam (Manis, Berempah dan Pekat)
+        url: https://myresepi.com/resepi-ayam-masak-hitam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cucur Bawang (Cekodok Rangup, Cara Buat Jemput Simple)
+        url: https://myresepi.com/resepi-cucur-bawang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Mazola (Biskut Wajib Hari Raya Yang Patut Cuba)
+        url: https://myresepi.com/resepi-biskut-mazola/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Donut Big Apple (Confirm Gebu dan Pelbagai Topping)
+        url: https://myresepi.com/resepi-donut-big-apple/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Telur Masak Kicap Simple (Sedap, Confirm Tambah Nasi)
+        url: https://myresepi.com/resepi-telur-masak-kicap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Agar-agar (Pelbagai Resepi, Semuanya Sedap)
+        url: https://myresepi.com/resepi-agar-agar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nona Manis (Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-nona-manis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cendol Homemade Yang Sedap
+        url: https://myresepi.com/resepi-cendol/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Badam (Confirm Rangup, Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-biskut-badam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Lidah Kucing (Rangup, Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-biskut-lidah-kucing/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kacang Panjang Sedap (Tumis, Goreng, Masak Sambal)
+        url: https://myresepi.com/resepi-kacang-panjang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Kam Heong (Chinese Style, Tapi Pedas)
+        url: https://myresepi.com/resepi-ayam-kam-heong/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Lala (Pelbagai Rasa, Sedap Belaka)
+        url: https://myresepi.com/resepi-lala/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Apam Nasi (Guna Sukatan Cawan, Pasti Gebu)
+        url: https://myresepi.com/resepi-apam-nasi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sirap Bandung Soda (Ada Laici, Cincau, dan Selasih)
+        url: https://myresepi.com/resepi-sirap-bandung-soda/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Frambozen Kenari (Sesuai Untuk Buat Kuih Raya)
+        url: https://myresepi.com/resepi-frambozen-kenari/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuey Teow Kantonis (Kuah Pekat Dan Sedap)
+        url: https://myresepi.com/resepi-kuey-teow-kantonis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Tauhu Jepun (Sedap & Mudah Nak Masak)
+        url: https://myresepi.com/resepi-tauhu-jepun/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Buko Pandan Original (Cara Buat Yang Simple)
+        url: https://myresepi.com/resepi-buko-pandan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti Gardenia (Menggunakan Lebihan Roti Potong)
+        url: https://myresepi.com/resepi-roti-gardenia/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Kuning (Dari Terengganu Dan Sabah)
+        url: https://myresepi.com/resepi-nasi-kuning/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Panna Cotta (Dessert Dari Italy, Confirm Tak Cukup Satu)
+        url: https://myresepi.com/resepi-panna-cotta/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pavlova Mini (Saiz Kecil Cukup Mudah Nak Buat)
+        url: https://myresepi.com/resepi-pavlova-mini/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuih Penyaram (Teknik yang Betul, Cantik Kejadiannya)
+        url: https://myresepi.com/resepi-kuih-penyaram/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Air Mata Kucing (Sedap Dan Menyegarkan)
+        url: https://myresepi.com/resepi-air-mata-kucing/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Karipap Frozen (Cara Buat Kulit Rangup & Tahan Lama)
+        url: https://myresepi.com/resepi-karipap-frozen/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Aiskrim (Sangat Mudah, Ikut Sukatan Cawan)
+        url: https://myresepi.com/resepi-biskut-aiskrim/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Macaroni Cheese (Goreng Atau Bakar, Anda Pilih)
+        url: https://myresepi.com/resepi-macaroni-cheese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Burasak (Cara Buat & Masak Makanan Bugis)
+        url: https://myresepi.com/resepi-burasak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pengat Ubi Kayu (Sedap Berlemak Manis)
+        url: https://myresepi.com/resepi-pengat-ubi-kayu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ambuyat (Hidangan Negeri Di Bawah Bayu)
+        url: https://myresepi.com/resepi-ambuyat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Halwa Maskat (Sajian Tradisional Yang Semakin Hilang)
+        url: https://myresepi.com/resepi-halwa-maskat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Masak Palembang (Rasa Original, Mudah Sahaja)
+        url: https://myresepi.com/resepi-ayam-masak-palembang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Rasam (Berkhasiat, Boleh Melegakan Selsema Dan Sakit Tekak)
+        url: https://myresepi.com/resepi-rasam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kek Butterscotch (Sedap Semuanya, Boleh Dijual)
+        url: https://myresepi.com/resepi-kek-butterscotch/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Hujan Panas (Cantik Rupanya, Sedap Rasanya)
+        url: https://myresepi.com/resepi-nasi-hujan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Gochujang (Pes Dan Masakan, Mudah Sahaja)
+        url: https://myresepi.com/resepi-gochujang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Nasi Daging Utara (Simple & Sedap)
+        url: https://myresepi.com/resepi-nasi-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Maqlubah (Daging, Ayam & Kambing)
+        url: https://myresepi.com/resepi-nasi-maqlubah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ketam Masak Lemak Simple (Nak Sedap, Letak Nanas)
+        url: https://myresepi.com/resepi-ketam-masak-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Dagang Terengganu Asli (Simple & Sedap)
+        url: https://myresepi.com/resepi-nasi-dagang-terengganu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bubur Nasi (Menyelerakan, Sedap Dimakan Panas)
+        url: https://myresepi.com/resepi-bubur-nasi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tteokbokki (Halal dan Confirm Sedap)
+        url: https://myresepi.com/resepi-tteokbokki/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Labu Masak Lemak Simple (Sedap & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-labu-masak-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Popia Sayur Simple (Sedap, Cara Buat Pun Mudah)
+        url: https://myresepi.com/resepi-popia-sayur/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Spaghetti Bolognese Simple (Guna Sos Prego)
+        url: https://myresepi.com/resepi-spaghetti-bolognese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cinnamon Roll Simple (Roti Lembut & Sedap)
+        url: https://myresepi.com/resepi-cinnamon-roll/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Shell Out Buttermilk (Seafood Shellout Sedap & Simple)
+        url: https://myresepi.com/resepi-shell-out/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Penyet Simple (Sedap, Ayam Goreng Crispy)
+        url: https://myresepi.com/resepi-ayam-penyet/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Daging Blackpepper (Cara Masak Black Pepper Simple)
+        url: https://myresepi.com/resepi-daging-blackpepper/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Dalca Sayur Sedap (Cara Buat & Masak Simple)
+        url: https://myresepi.com/resepi-dalca-sayur/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cheese Tart Buncit Sedap (Cara Buat Simple & Mudah)
+        url: https://myresepi.com/resepi-cheese-tart/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Fettuccine Carbonara (Simple & Sedap)
+        url: https://myresepi.com/resepi-fettuccine-carbonara/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Bakar Madu (Boleh Guna Air Fryer Juga)
+        url: https://myresepi.com/resepi-ayam-bakar-madu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sambal Ayam Penyet Sedap (Cara Buat Mudah)
+        url: https://myresepi.com/resepi-sambal-ayam-penyet/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bihun Singapore (Mudah, Sedap & Berkhasiat)
+        url: https://myresepi.com/resepi-bihun-singapore/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mushroom Soup (Pekat & Berlemak, Ala Pizza Hut)
+        url: https://myresepi.com/resepi-mushroom-soup/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kari Kepala Ikan (Simple & Sedap, Mamak Style)
+        url: https://myresepi.com/resepi-kari-kepala-ikan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Begedil Daging Simple (Cara Buat Bergedil Kentang)
+        url: https://myresepi.com/resepi-begedil-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kacang Pool (Buat Roti, Sarapan Ala Johor Bahru)
+        url: https://myresepi.com/resepi-kacang-pool/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Brownies (Guna Sukatan Cawan dan Timbang)
+        url: https://myresepi.com/resepi-brownies/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Roti Chicken Floss (Gebu, Lembut dan Enak)
+        url: https://myresepi.com/resepi-roti-chicken-floss/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Lepat Pisang (Sedap, Manis & Lembut)
+        url: https://myresepi.com/resepi-lepat-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sotong Bakar (Ala Thai, Sumbat Bakar & Sambal)
+        url: https://myresepi.com/resepi-sotong-bakar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuih Kaswi (Guna Sukatan Cawan Pun Boleh)
+        url: https://myresepi.com/resepi-kuih-kaswi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Aglio Olio (Spaghetti Seafood Sedap, Anak-anak Suka)
+        url: https://myresepi.com/resepi-aglio-olio/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Crab Rangoon Guna Kulit Popia (Viral, Sedap & Simple)
+        url: https://myresepi.com/resepi-crab-rangoon/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Karipap Mini (Inti Serunding, Rangup & Tahan Lama)
+        url: https://myresepi.com/resepi-karipap-mini/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sup Ketam (Sedap & Power, Sesuai Untuk Demam Denggi)
+        url: https://myresepi.com/resepi-sup-ketam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Acar Timun Tumis (Cara Buat & Masak Yang Simple)
+        url: https://myresepi.com/resepi-acar-timun-tumis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Komok (Dengan Sos Thai dan Ayam)
+        url: https://myresepi.com/resepi-nasi-komok/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Omelette Simple (Mudah & Sedap Macam Hotel)
+        url: https://myresepi.com/resepi-omelette/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Pajeri Nenas (Kuah Pekat, Sedap & Menyelerakan)
+        url: https://myresepi.com/resepi-pajeri-nenas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sup Telur (Cara Buat & Masak Yang Simple)
+        url: https://myresepi.com/resepi-sup-telur/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sagu Gula Melaka (Sedap, Manis & Berlemak)
+        url: https://myresepi.com/resepi-sagu-gula-melaka/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Belgium Cookies (Mudah, Sedap, Manis Berlemak)
+        url: https://myresepi.com/resepi-belgium-cookies/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Quiche (Isi Ayam, Cendawan & Tuna)
+        url: https://myresepi.com/resepi-quiche/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Bakwan (Sedap, Rangup & Berkhasiat)
+        url: https://myresepi.com/resepi-bakwan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cucur Manis (Guna Sukatan Cawan, Confirm Jadi)
+        url: https://myresepi.com/resepi-cucur-manis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bihun Sup (Ada Chinese Style & Bihun Sup Utara)
+        url: https://myresepi.com/resepi-bihun-sup/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Masak Lemak Cili Api (Simple, Sedap & Pedas)
+        url: https://myresepi.com/resepi-ayam-masak-lemak-cili-api/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kurma Ayam (Simple & Sedap, Rasa Macam Kenduri)
+        url: https://myresepi.com/resepi-kurma-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Samosa (Goreng Rangup, Inti Sedap)
+        url: https://myresepi.com/resepi-samosa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Laksa Mee (Popular di Pangkor & Pantai Remis)
+        url: https://myresepi.com/resepi-laksa-mee/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tepung Talam (Perasa Gula Merah, Ubi Kayu & Pandan)
+        url: https://myresepi.com/resepi-tepung-talam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuih Tahi Itik (Sedap, Popular Di Kelantan & Terengganu)
+        url: https://myresepi.com/resepi-kuih-tahi-itik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Keropok Lekor Terengganu (Cara Buat Kopok Crispy)
+        url: https://myresepi.com/resepi-keropok-lekor/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Chicken Popcorn (Sedap, Goreng Rangup ala KFC)
+        url: https://myresepi.com/resepi-chicken-popcorn/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Popia Simpul Kasih (Serunding Ikan, Bilis & Sambal)
+        url: https://myresepi.com/resepi-popia-simpul-kasih/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cakoi Untuk Minum Petang (Sedap, Lembut & Gebu)
+        url: https://myresepi.com/resepi-cakoi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Tumpang (Sarapan Popular Di Kelantan)
+        url: https://myresepi.com/resepi-nasi-tumpang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kek Mentega (Butter Cake Moist, Ikut Sukatan Cawan)
+        url: https://myresepi.com/resepi-kek-mentega/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Gulai Ayam (Mudah, Sedap & Menyelerakan)
+        url: https://myresepi.com/resepi-gulai-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Jejari Oat (Biskut Viral Mudah Dibuat, Lembut & Rangup)
+        url: https://myresepi.com/resepi-jejari-oat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Ambang Simple (Versi Nasi Ambeng Jawa Johor)
+        url: https://myresepi.com/resepi-nasi-ambang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Popia Carbonara Cheese (Cara Buat Yang Mudah)
+        url: https://myresepi.com/resepi-popia-carbonara-cheese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Dimsum Halal (Resipi Beserta Sos)
+        url: https://myresepi.com/resepi-dimsum-halal/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuih Sepit / Kapit / Sapit (Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-kuih-sepit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Blackpepper (Ada Bakar, Kukus dan Masak Cendawan)
+        url: https://myresepi.com/resepi-ayam-blackpepper/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Roti Titab Kelantan (Sarapan Pagi Ala Kopitiam)
+        url: https://myresepi.com/resepi-roti-titab/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Agar Agar Kering Tradisional (Warna Warni & Kurang Manis)
+        url: https://myresepi.com/resepi-agar-agar-kering/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kerepek Pisang Rangup (Pisang Tanduk & Nipah)
+        url: https://myresepi.com/resepi-kerepek-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bubur Kacang Hijau (Sedap Dimakan Semasa Sejuk)
+        url: https://myresepi.com/resepi-bubur-kacang-hijau/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ikan Singgang Kelantan & Terengganu (Sedap & Mudah)
+        url: https://myresepi.com/resepi-ikan-singgang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Makaroni Goreng (Cara Buat & Masak Macaroni Simple)
+        url: https://myresepi.com/resepi-makaroni-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Congo Bar Mudah (Sukatan Cawan, Tanpa Guna Mixer)
+        url: https://myresepi.com/resepi-congo-bar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Buttercake Marble (Kek Butter Susu Sukatan Cawan)
+        url: https://myresepi.com/resepi-buttercake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuah Lodeh Lontong (Masak Sayur Simple Tapi Sedap)
+        url: https://myresepi.com/resepi-kuah-lodeh/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Buttermilk (Ada Susu Cair, Tapi Tak Muak Pun)
+        url: https://myresepi.com/resepi-ayam-buttermilk/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Apple Crumble (Ada Kek dan Aiskrim Juga)
+        url: https://myresepi.com/resepi-apple-crumble/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Ayam Ungkep Jawa Asli (Cara Masak & Buat Simple)
+        url: https://myresepi.com/resepi-ayam-ungkep-jawa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Kungfu (Simple Nak Buat & Rasa Pun Sedap)
+        url: https://myresepi.com/resepi-mee-kungfu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: Resepi Bihun Sup Chinese Style (Mee Hoon Soup Cina Simple)
+        url: https://myresepi.com/resepi-bihun-sup-chinese-style/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pasembor (Ada Cucur, Kuah dan Mee Rojak)
+        url: https://myresepi.com/resepi-pasembor/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Goreng Cina (Kurang Pedas, Sesuai Untuk Anak Anda)
+        url: https://myresepi.com/resepi-nasi-goreng-cina/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Laksa Kedah Asli (Simple, Sedap dan Mudah Dibuat)
+        url: https://myresepi.com/resepi-laksa-kedah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Mac And Cheese (Mudah Sangat Nak Buat)
+        url: https://myresepi.com/resepi-mac-and-cheese/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Udang Masak Lemak (Cili Api Petai, Nenas & Tempoyak)
+        url: https://myresepi.com/resepi-udang-masak-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Laksa Sarawak (Boleh Guna Pes Atau Buat Sendiri)
+        url: https://myresepi.com/resepi-laksa-sarawak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Lempeng (Untuk Sarapan Pagi, Mudah, Gebu dan Sedap)
+        url: https://myresepi.com/resepi-lempeng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Air Asam (Cara Buat & Masak Untuk Ikan Bakar)
+        url: https://myresepi.com/resepi-air-asam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bubur Kacang Hijau Durian (Simple & Sedap)
+        url: https://myresepi.com/resepi-bubur-kacang-hijau-durian/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tart Cadbury (Gebu, Rangup & Coklat Cair di Mulut)
+        url: https://myresepi.com/resepi-tart-cadbury/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Percik Kelantan (Simple, Mudah & Rasa Sedap Original)
+        url: https://myresepi.com/resepi-ayam-percik-kelantan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Popia Nestum (Mudah, Ringkas & Rangup. Buat Biar Nipis)
+        url: https://myresepi.com/resepi-popia-nestum/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Laksa Johor (Dengan Rasa Asli, Nak Buat Pun Mudah)
+        url: https://myresepi.com/resepi-laksa-johor/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Spaghetti Goreng (Cara Buat & Masak Pasta Simple)
+        url: https://myresepi.com/resepi-spaghetti-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Onde Onde (Kuih Buah Melaka / Ondeh Ondeh)
+        url: https://myresepi.com/resepi-onde-onde/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Biskut Coklat Chip (Ala Subway & Famous Amos, Cair di Mulut)
+        url: https://myresepi.com/resepi-biskut-coklat-chip/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tepung Pelita (Mudah & Sedap, Guna Santan Kotak Sahaja)
+        url: https://myresepi.com/resepi-tepung-pelita/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Laksam Pantai Timur (Kelantan & Terengganu, Sukatan Cawan)
+        url: https://myresepi.com/resepi-laksam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sambal Nasi Lemak (Simple, Mudah & Sedap)
+        url: https://myresepi.com/resepi-sambal-nasi-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cekodok Pisang (Rangup, Gebu dan Sedap)
+        url: https://myresepi.com/resepi-cekodok-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kimchi (Confirm Sedap & Halal, Nak Buat Pun Mudah)
+        url: https://myresepi.com/resepi-kimchi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Butter Chicken (Mudah, Cepat dan Sedap Hasilnya)
+        url: https://myresepi.com/resepi-butter-chicken/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Waffle Rangup (Sedap, Gebu dan Tahan Lama)
+        url: https://myresepi.com/resepi-waffle/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kuey Teow Hong Kong / Kuew Tiaw Kungfu
+        url: https://myresepi.com/resepi-kuey-teow-hong-kong/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Biskut Sarang Semut (Guna Sukatan Cawan Pun Boleh)
+        url: https://myresepi.com/resepi-biskut-sarang-semut/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sup Daging (Versi Thai / Siam, Yang Sedap & Simple)
+        url: https://myresepi.com/resepi-sup-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Almond London (Rangup dan Sedap)
+        url: https://myresepi.com/resepi-almond-london/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pulut Dakap (Cara Buat Style Kelantan & Utara)
+        url: https://myresepi.com/resepi-pulut-dakap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuih Karas (Boleh Pilih Guna Tepung Beras Atau Bihun)
+        url: https://myresepi.com/resepi-kuih-karas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Ayam Hainan Simple (Chinese Style)
+        url: https://myresepi.com/resepi-nasi-ayam-hainan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Dorayaki (Lembut & Gebu, Ikut Sukatan Cawan)
+        url: https://myresepi.com/resepi-dorayaki/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Puteri Mandi (Kuih Dari Kelantan & Terengganu)
+        url: https://myresepi.com/resepi-puteri-mandi/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Rempeyek Kacang Tanah (Cara Buat Sukatan Cawan)
+        url: https://myresepi.com/resepi-rempeyek/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Nasi Kerabu (Resepi Dari Kelate dan Golok)
+        url: https://myresepi.com/resepi-nasi-kerabu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Sotong Goreng Tepung (Rangup Di Luar, Lembut Di Dalam)
+        url: https://myresepi.com/resepi-sotong-goreng-tepung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kerabu Mangga (Sangat Senang Dibuat, Ratah Pun Sedap)
+        url: https://myresepi.com/resepi-kerabu-mangga/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Badak Berendam (Cukup Rasa, Pelbagai Cara Mudah)
+        url: https://myresepi.com/resepi-badak-berendam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bubur Jagung (Rasa Lemak Manis, Cara Buat Yang Simple)
+        url: https://myresepi.com/resepi-bubur-jagung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Seri Muka Simple (Cara Buat Guna Sukatan Cawan)
+        url: https://myresepi.com/resepi-seri-muka/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Spaghetti Carbonara (Cara Buat & Masak Guna Prego)
+        url: https://myresepi.com/resepi-spaghetti-carbonara/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sup Ayam Simple (Tanpa Sup Bunjut)
+        url: https://myresepi.com/resepi-sup-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Mee Goreng Mamak Sedap (Cara Buat Simple & Mudah)
+        url: https://myresepi.com/resepi-mee-goreng-mamak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tauhu Bergedil (Dengan Sambal Kicap Sedap)
+        url: https://myresepi.com/resepi-tauhu-bergedil/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cheesecake (Burnt Cheese Cake, Nutella & Pecan Pie Pumpkin)
+        url: https://myresepi.com/resepi-cheesecake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bakso Indonesia Simple (Dengan Kuah Yang Sedap)
+        url: https://myresepi.com/resepi-bakso/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Percik (Sedap Macam Pasar Malam)
+        url: https://myresepi.com/resepi-ayam-percik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Asam Pedas (Telur Ikan Mayong & Ikan Kembung)
+        url: https://myresepi.com/resepi-asam-pedas-telur-ikan/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Masak Kicap Simple (Sedap, Cara Buat Mudah)
+        url: https://myresepi.com/resepi-daging-masak-kicap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Soto Ayam (Simple, Kenyang dan Berkhasiat)
+        url: https://myresepi.com/resepi-soto-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Semperit (Pelbagai Versi dan Paling Penting Mudah)
+        url: https://myresepi.com/resepi-semperit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Sup Ikan Merah (Untuk Pantang Bersalin, Style Ala Thai)
+        url: https://myresepi.com/resepi-sup-ikan-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Masak Merah Ala Thai (Sedap, Cara Buat Simple)
+        url: https://myresepi.com/resepi-daging-masak-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Roti Canai (Gebu, Lembut dan Confirm Jadi)
+        url: https://myresepi.com/resepi-roti-canai/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kari Daging (Cara Masak Yang Simple & Sedap)
+        url: https://myresepi.com/resepi-kari-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Dendeng (Versi Indonesia & Malaysia)
+        url: https://myresepi.com/resepi-daging-dendeng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Roti Puri (Cara Buat Guna Sukatan Cawan, Tanpa Yis)
+        url: https://myresepi.com/resepi-roti-puri/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Goreng Basah Sedap (Cara Masak Simple & Mudah)
+        url: https://myresepi.com/resepi-mee-goreng-basah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Bakar (Mudah, Sedap Macam Kenny Rogers)
+        url: https://myresepi.com/resepi-ayam-bakar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Goreng Berempah (Sedap, Simple & Ringkas)
+        url: https://myresepi.com/resepi-ayam-goreng-berempah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Puding Karamel (Tanpa Telur, Tak Payah Kukus)
+        url: https://myresepi.com/resepi-puding-karamel/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kari Ayam (Sedap & Simple, Tanpa Santan)
+        url: https://myresepi.com/resepi-kari-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Goreng (Simple, Main Campak-Campak Pun Sedap)
+        url: https://myresepi.com/resepi-mee-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Rebus (Pelbagai Versi, Puas Hati Masak Sendiri)
+        url: https://myresepi.com/resepi-mee-rebus/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Briyani (Tak Mudah Dimasak, Tapi Sedap & Berbaloi)
+        url: https://myresepi.com/resepi-nasi-briyani/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Yong Tau Fu (Dengan Sos, Sedap Macam Di Pasar Malam)
+        url: https://myresepi.com/resepi-yong-tau-fu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Char Kuey Teow Simple (Masak Masuk Kerang & Udang)
+        url: https://myresepi.com/resepi-char-kuey-teow/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Corndog Cheese (Yang Simple, Mudah & Sedap)
+        url: https://myresepi.com/resepi-corndog/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Bihun Goreng (Yang Simple & Sedap)
+        url: https://myresepi.com/resepi-bihun-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Goreng Kampung Sedap (Rasa Kedai Ala Thai)
+        url: https://myresepi.com/resepi-nasi-goreng-kampung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Laksa Penang (Sedap, Kuah Pekat dan Padu)
+        url: https://myresepi.com/resepi-laksa-penang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ikan Cencaru (Rebus, Bakar atau Goreng, Semuanya Boleh)
+        url: https://myresepi.com/resepi-ikan-cencaru-bakar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ikan Siakap Stim (Masak Stim Limau / Lemon Steam)
+        url: https://myresepi.com/resepi-ikan-siakap-stim/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ikan Siakap 3 Rasa Simple (Masak Tiga Rasa Ala Thai)
+        url: https://myresepi.com/resepi-ikan-siakap-3-rasa/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Masak Hitam (Cara Mudah, Stail Kenduri)
+        url: https://myresepi.com/resepi-daging-masak-hitam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Oreo Cheesecake (Tanpa Perlu Bakar dan Sangat Sedap)
+        url: https://myresepi.com/resepi-oreo-cheesecake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pulut Kuning Kukus (Sedap & Mudah Nak Buat)
+        url: https://myresepi.com/resepi-pulut-kuning/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tomyam Ayam (Cukup Rasa Masam Manis, Seperti di Kedai Thailand)
+        url: https://myresepi.com/resepi-tomyam-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Tart Nenas (Cair Di Mulut, Rasa Lemak dan Manis)
+        url: https://myresepi.com/resepi-tart-nenas/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Gulai Ikan Tongkol (Mudah Sahaja, Simple dan Sedap)
+        url: https://myresepi.com/resepi-gulai-ikan-tongkol/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pajeri Terung (Rasa Pedas, Manis dan Sesuai Seisi Keluarga)
+        url: https://myresepi.com/resepi-pajeri-terung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Overnight Oat (Cara Buat Simple, Guna Instant Oat)
+        url: https://myresepi.com/resepi-overnight-oat/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Telur Bistik (Sangat Simple, Mudah dan Berkhasiat)
+        url: https://myresepi.com/resepi-telur-bistik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Kuah Kacang (Cara Buat Sedap, Masak Ada Santan)
+        url: https://myresepi.com/resepi-kuah-kacang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Cempedak Goreng (Cara Buat Cucur & Tepung Rangup)
+        url: https://myresepi.com/resepi-cempedak-goreng/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Wajik Durian (Boleh Pilih Ikut Citarasa Anda)
+        url: https://myresepi.com/resepi-wajik-durian/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Lontong (Dengan Cara Buat & Masak Kuah Sedap)
+        url: https://myresepi.com/resepi-lontong/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Bandung Muar Asli (Cara Buat Simple & Sedap)
+        url: https://myresepi.com/resepi-mee-bandung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Donut Gebu (Donat Lembut, Cara Buat Pun Simple)
+        url: https://myresepi.com/resepi-donut/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Oden (Mudah Dibuat, Rasa ala Family Mart)
+        url: https://myresepi.com/resepi-oden/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Famous Amos Cookies (Gaul Sahaja, Tak Perlu Guna Mixer)
+        url: https://myresepi.com/resepi-famous-amos/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Pancake (Sedap, Simple & Cara Buat Yang Mudah)
+        url: https://myresepi.com/resepi-pancake/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Udang Butter (Mudah Dibuat, Butter Prawn Rasa Manis Masin)
+        url: https://myresepi.com/resipi-udang-butter/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Jeruk Mangga (Cara Buat Buah Pelam Rangup & Sedap)
+        url: https://myresepi.com/resepi-jeruk-mangga/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Lasagna Simple & Sedap (Ada Cara Buat Sos Putih)
+        url: https://myresepi.com/resepi-lasagna/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Rendang Kerang (Enak Dimakan Bersama Lemang)
+        url: https://myresepi.com/resepi-rendang-kerang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Jemput Pisang (Hasil Yang Rangup di Luar, Lembut di Dalam)
+        url: https://myresepi.com/resepi-jemput-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 6 Resepi Sup Tulang Sedap (Cara Masak Ala Mamak & Ala Thai)
+        url: https://myresepi.com/resepi-sup-tulang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Goreng Pisang Sedap (Rangup & Cara Buat Pun Mudah)
+        url: https://myresepi.com/resepi-goreng-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Hailam Simple (Masakan Cina, Sesuai Tekak Melayu)
+        url: https://myresepi.com/resepi-mee-hailam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ubi Kayu (Pelbagai Resepi Yang Boleh Dicuba)
+        url: https://myresepi.com/resepi-ubi-kayu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Puding Jagung Mudah (Simple, Sukatan Tin & Susu Cair)
+        url: https://myresepi.com/resepi-puding-jagung/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Udang Galah (Mudah dan Confirm Sedap!)
+        url: https://myresepi.com/resepi-udang-galah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Garlic Bread (Ada Banyak Cara, Semuanya Sedap dan Mudah)
+        url: https://myresepi.com/resepi-garlic-bread/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Serawa Durian Sedap (Boleh Guna Santan Kotak)
+        url: https://myresepi.com/resepi-serawa-durian/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Rotiboy (Cara Buat Roti Boy Kopi Guna Breadmaker)
+        url: https://myresepi.com/resepi-rotiboy/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Biskut Nestum (Mudah, Sedap dan Berkhasiat!)
+        url: https://myresepi.com/resepi-biskut-nestum/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Udang Goreng Kunyit (Mudah Sahaja Buat, Hasil Pun Sedap!)
+        url: https://myresepi.com/resepi-udang-goreng-kunyit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Durian Crepe (Cara Buat Yang Simple & Mudah)
+        url: https://myresepi.com/resepi-durian-crepe/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Laksa Utara (Cara Buat & Masak Kuah Pekat dan Sedap)
+        url: https://myresepi.com/resepi-laksa-utara/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Udang Buttermilk (Cara Buat Prawn Masak Butter)
+        url: https://myresepi.com/resepi-udang-buttermilk/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Goreng Kunyit (Yang Mudah Untuk Anda Cuba)
+        url: https://myresepi.com/resepi-daging-goreng-kunyit/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ikan Bakar (Masakan Ikan Kembong, Cencaru, Pari)
+        url: https://myresepi.com/resepi-ikan-bakar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kek Coklat Moist (Confirm Lembut, Mudah Dibuat)
+        url: https://myresepi.com/resepi-kek-coklat-moist/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Florentine (Tiada Oven, Guna Air Fryer Pun Boleh)
+        url: https://myresepi.com/resepi-florentine/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Lemak (Cara Buat Yang Pelbagai, Semua Mudah & Sedap!)
+        url: https://myresepi.com/resepi-nasi-lemak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Masak Kicap (Confirm Sedap dan Sangat Mudah Dibuat)
+        url: https://myresepi.com/resepi-ayam-masak-kicap/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cheesekut (Cara Buat Biskut Simple, 3 Bahan)
+        url: https://myresepi.com/resepi-cheesekut/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Rendang Ayam (Simple & Sedap, Mudah Nak Buat)
+        url: https://myresepi.com/resepi-rendang-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Cornflakes Madu (Sangat Senang Dibuat, Sedap Dimakan)
+        url: https://myresepi.com/resepi-cornflakes-madu/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Minyak (Yang Mudah, Cantik dan Sedap Dimakan)
+        url: https://myresepi.com/resepi-nasi-minyak/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Paprik Ayam (Mudah Dibuat, Rasa Seperti Makan di Thailand)
+        url: https://myresepi.com/resepi-paprik-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Arab (Yang Mudah, Simple & Sedap)
+        url: https://myresepi.com/resepi-nasi-arab/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Rendang Daging (Yang Pasti Enak Dan Memikat Rasa Anda)
+        url: https://myresepi.com/resepi-rendang-daging/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Kek Pisang (Hasil Yang Lembap, Moist dan Sedap)
+        url: https://myresepi.com/resepi-kek-pisang/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Puding Roti (Boleh Guna Air Fryer atau Oven)
+        url: https://myresepi.com/resepi-puding-roti/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: Resepi Kek Marble Sukatan Cawan (3 Cara Buat Simple & Moist)
+        url: https://myresepi.com/resepi-kek-marble/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Roti Jala (Lembut, Sedap & Tahan Lama, Ikut Sukatan Cawan)
+        url: https://myresepi.com/resepi-roti-jala/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Ayam Masak Merah Simple (Cara Buat & Masak Kenduri)
+        url: https://myresepi.com/resepi-ayam-masak-merah/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Nasi Tomato Simple (Cara Sukatan Cawan & Susu Cair)
+        url: https://myresepi.com/resepi-nasi-tomato/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Chocojar (Cara Buat Choco Jar Cair, Leleh & Rangup)
+        url: https://myresepi.com/resepi-chocojar/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 6 Resepi Nasi Ayam (Sedap, Cara Buat & Masak Simple)
+        url: https://myresepi.com/resepi-nasi-ayam/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Mee Kari Sedap (Cara Buat Simple & Mudah)
+        url: https://myresepi.com/resepi-mee-kari/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 3 Resepi Daging Harimau Menangis (Cara Perap & Buat Sos)
+        url: https://myresepi.com/resepi-daging-harimau-menangis/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 4 Resepi Vietnam Roll (Cara Buat Sos Popia Sedap)
+        url: https://myresepi.com/resepi-vietnam-roll/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 7 Resepi Kek Batik (Lembut dan Simple, Ikut Sukatan Cawan)
+        url: https://myresepi.com/resepi-kek-batik/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: 6 Resepi Susu Kurma (Sesuai di Bulan Puasa dan Ibu Menyusu)
+        url: https://myresepi.com/resepi-susu-kurma/
+        ingredients: [
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]

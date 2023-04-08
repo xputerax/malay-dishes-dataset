@@ -1,0 +1,386 @@
+metadata:
+    name: anekaresipi masakan melayu page 2
+    url: https://www.anekaresipi.com/search/label/Masakan%20Melayu?updated-max=2018-01-29T21:02:00%2B08:00&max-results=20&start=20&by-date=false
+links:
+    -   title: "Resepi Sotong Masak Hitam Kelantan"
+        url: "https://www.anekaresipi.com/2018/01/resepi-sotong-masak-hitam-kelantan.html"
+        ingredients: [
+            "600gm sotong",
+            "Sedikit dakwat sotong",
+            "2 batang serai",
+            "2 ulas bawang putih",
+            "4 biji bawang merah",
+            "1 keping asam gelugor",
+            "1 biji cili hijau – optional",
+            "Garam dan serbuk perasa secukupnya",
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal","seafood"]
+    -   title: "Resepi Cucur Badak"
+        url: "https://www.anekaresipi.com/2017/12/resepi-cucur-badak-udang-sedap.html"
+        ingredients: [
+            "500 gm ubi keledek",
+            "1 cawan tepung gandum biasa",
+            "2 cawan kelapa parut putih",
+            "½ cawan udang kering",
+            "6 biji cili kering",
+            "1 biji bawang besar",
+            "2 ulas bawang putih",
+            "1 cm kunyit hidup / 1 sudu kecil serbuk kunyit",
+            "2 batang serai (bahagian putih sahaja)",
+            "½ cm halia",
+            "½ sudu kecil jintan manis",
+            "1 sudu besar gula",
+            "Sedikit udang kecil untuk topping – optional",
+            "Garam secukup rasa",
+            "Minyak untuk menggoreng",
+        ]
+        cooking_method: "fry"
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Gulai Ketam Kelantan"
+        url: "https://www.anekaresipi.com/2017/12/resepi-gulai-lemak-ketam-kelantan.html"
+        ingredients: [
+            "1 kg ketam segar",
+            "2 cawan santan pekat segar",
+            "6 biji bawang merah kecil",
+            "2 ulas bawang putih",
+            "5 biji cili kering",
+            "1 inci kunyit hidup",
+            "1 cm lengkuas",
+            "2 keping asam gelugor",
+            "2 biji cili hijau",
+            "Garam dan gula secukup rasa",
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal", "seafood"]
+    -   title: "Resepi Akok Kelantan Sedap"
+        url: "https://www.anekaresipi.com/2017/12/resepi-akok-kedut-kelantan-sedap.html"
+        ingredients: [
+            5 biji telur gred A,
+            1 cawan tepung gandum serbaguna,
+            1 cawan santan pekat,
+            2 keping nisan / gula melaka,
+            ¼ cawan gula pasir,
+            1 cawan air,
+            4 helai daun pandan,
+            ¼ sudu kecil garam,
+            Sedikit minyak masak,
+        ]
+        cooking_method: "bake"
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Keria Sedap Dan Mudah"
+        url: "https://www.anekaresipi.com/2017/10/resepi-kuih-keria-sedap-dan-mudah.html"
+        ingredients: [
+            ½ kg ubi keledek oren atau putih,
+            1 cawan tepung gandum,
+            1 sudu besar tepung beras,
+            1 sudu kecil garam,
+            ½ cawan gula pasir,
+            1 cawan air,
+        ]
+        cooking_method: "fried"
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Ikan Tenggiri Masak Lemak Cili Api"
+        url: "https://www.anekaresipi.com/2017/12/ikan-tenggiri-masak-lemak-cili-api.html"
+        ingredients: [
+            ½ ekor ikan tenggiri sederhana besar (dalam ½ kg),
+            15 biji cili api (kurangkan/tambah ikut suka),
+            1 cawan santan pekat segar (atau 1 kotak kecil santan),
+            1 inci kunyit hidup,
+            3 biji bawang merah - optional,
+            1 batang serai,
+            1 helai daun kunyit – optional,
+            1 keping asam gelugor,
+            2 cawan air,
+            Garam dan gula,
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Bahulu Sedap"
+        url: "https://www.anekaresipi.com/2017/09/resepi-kuih-bahulu.html"
+        ingredients: [
+            1 cawan (120g) tepung gandum biasa,
+            1 cawan (120g) gula kastor,
+            ½ sudu kecil serbuk penaik (baking powder),
+            1 sudu kecil tepung beras,
+            ¼ sudu kecil garam,
+            4 biji telur,
+            ½ sudu kecil esen vanila,
+            Minyak masak,
+            Acuan bahulu cermai atau belimbing,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Pulut Sekaya / Seri Kaya"
+        url: "https://www.anekaresipi.com/2017/11/resepi-pulut-sekaya-seri-kaya.html"
+        ingredients: [
+            5 biji telur ayam,
+            1 kotak santan,
+            2 keping gula melaka,
+            2 helai daun pandan,
+            ¼ sudu kecil garam,
+            1½ cawan beras pulut,
+            ½ kotak santan,
+            ½ cawan air,
+            1 sudu kecil garam,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Ketayap Sukatan Cawan"
+        url: "https://www.anekaresipi.com/2017/10/resepi-kuih-ketayap_6.html"
+        ingredients: [
+            ½ biji kelapa parut - ambil putihnya sahaja,
+            1 cawan gula merah,
+            1 sudu besar tepung gandum,
+            2 helai daun pandan,
+            ½ cawan air,
+            ½ sudu kecil garam,
+            2 cawan tepung gandum,
+            2 biji telur,
+            1 helai daun pandan,
+            1 cawan santan,
+            2 sudu besar minyak masak,
+            ½ sudu kecil garam,
+            2-3 titis pewarna hijau,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Tepung Pelita"
+        url: "https://www.anekaresipi.com/2017/09/resepi-kuih-tepung-pelita.html"
+        ingredients: [
+            1 cawan gula halus,
+            1 cawan tepung beras ,
+            1/4 cawan gula pasir,
+            1/2 cawan jus pandan (dari 5 helai daun pandan),
+            6 cawan air,
+            1 sudu kecil air kapur,
+            Secubit garam,
+            5 sudu besar rata tepung beras,
+            3 sudu besar rata tepung jagung,
+            2 cawan santan pekat,
+            2 cawan air,
+            1 sudu kecil garam,
+            Daun pisang,
+            Lidi atau stapler,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Laksa Penang Sedap"
+        url: "https://www.anekaresipi.com/2017/10/resepi-laksa-penang-asli-sedap.html"
+        ingredients: [
+            1 kg laksa basah atau 1 paket laksa kering,
+            1 kg ikan kembung/selayang/sardin,
+            2 kuntum bunga kantan,
+            5 keping asam gelugur,
+            1 cekak daun kesum,
+            2 1/2 liter air,
+            1 sudu besar garam,
+            1 sudu besar gula,
+            7 biji cili kering,
+            2 ulas bawang putih,
+            10 biji bawang merah,
+            1 cm lengkuas,
+            1 inci belacan,
+            3 batang serai,
+            5 biji telur rebus,
+            200 gm daun salad,
+            2 biji bawang merah besar,
+            1 batang timun,
+            3 biji cili merah,
+            1/2 biji nenas,
+            6 biji cili padi,
+            3 biji buah limau nipis,
+        ]
+        cooking_method: ""
+        dish_type: ""
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Cara Berlauk Sedap"
+        url: "https://www.anekaresipi.com/2017/10/resepi-kuih-cara-berlauk-sedap.html"
+        ingredients: [
+            2 cawan tepung gandum,
+            2 biji telur,
+            1 sudu kecil minyak sapi,
+            3 cawan santan cair,
+            ½ sudu kecil garam,
+            Sedikit pewarna kuning,
+            200gm daging / daging ayam tanpa tulang,
+            2 biji bawang besar,
+            3 biji bawang kecil,
+            1 ulas bawang putih,
+            1½ sudu besar rempah kari ayam,
+            1 sudu kecil garam,
+            1 biji cili merah,
+            Bawang goreng,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Belebat Ubi Keledek"
+        url: "https://www.anekaresipi.com/2017/09/resepi-belebat-ubi-keledek-kelantan.html"
+        ingredients: [
+            1 cawan tepung beras,
+            ½ cawan gula,
+            240gm ubi keledek oren atau ungu,
+            1 kotak 200ml santan,
+            2 cawan air,
+            ½ sudu kecil garam,
+            Daun pisang secukupnya,
+        ]
+        cooking_method: ""
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Gulai Siput Daun Kaduk"
+        url: "https://www.anekaresipi.com/2017/09/gulai-siput-daun-kaduk-kelantan.html"
+        ingredients: [
+            1 kg siput,
+            1 cawan santan segar pekat,
+            1 cawan air,
+            ½ inci lengkuas,
+            1½ inci kunyit hidup,
+            1 sudu besar cili kisar,
+            8 biji bawang merah,
+            1 ulas bawang putih,
+            1 biji cili hijau,
+            Secekak pucuk kaduk (atau daun kesum),
+            2 keping asam gelugor,
+            Garam dan gula secukup rasa,
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Ikan Siakap Tiga Rasa Sedap"
+        url: "https://www.anekaresipi.com/2017/09/ikan-siakap-tiga-rasa-sedap-mudah.html"
+        ingredients: [
+            1 ekor ikan siakap saiz sederhana,
+            2 sudu besar cili kisar,
+            4 biji cili padi - optional,
+            2 sudu besar sos cili,
+            1 sudu besar sos tomato,
+            1 sudu besar sos tiram,
+            1 sudu kecil kicap manis,
+            1 sudu kecil cuka,
+            Sedikit nanas - optional,
+            Daun sup / daun bawang,
+            Garam dan gula secukup rasa,
+            1 sudu kecil serbuk kunyit,
+            1 sudu besar tepung jagung,
+            1 sudu kecil garam,
+            1 biji bawang besar,
+            3 biji bawang merah,
+            3 ulas bawang putih,
+            1 inci halia,
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Hati Dan Limpa Lembu Goreng Kunyit"
+        url: "https://www.anekaresipi.com/2017/09/hati-limpa-lembu-goreng-kunyit.html"
+        ingredients: [
+            300 gm hati & limpa,
+            1 biji bawang besar,
+            3 ulas bawang putih,
+            4 batang kacang panjang,
+            3 biji cili padi,
+            ½ sudu kecil serbuk kunyit,
+            ½ sudu kecil garam,
+            ½ sudu kecil sebuk lada hitam,
+            Serbuk perasa - optional,
+            3 sudu besar minyak masak,
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Rendang Ayam Sedap"
+        url: "https://www.anekaresipi.com/2017/09/resepi-rendang-ayam-kelantan.html"
+        ingredients: [
+            1 ekor ayam,
+            2 cawan santan segar,
+            2 sudu besar kerisik,
+            2 keping asam gelugor,
+            2 helai daun kunyit,
+            Minyak untuk menumis,
+            Garam dan gula secukup rasa,
+            6 biji bawang merah kecil,
+            5 ulas bawang putih,
+            2 biji bawang besar,
+            2 inci halia,
+            1 inci lengkuas,
+            1 inci kunyit hidup,
+            5 batang serai,
+            20 biji cili kering (blend berasingan),
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Rendang Daging Sedap"
+        url: "https://www.anekaresipi.com/2017/08/resepi-rendang-daging-asli-sedap.html"
+        ingredients: [
+            1 kg daging lembu tempatan,
+            1 cawan santan segar,
+            1 cawan air,
+            2 sudu besar kerisik,
+            2 keping asam gelugor,
+            1 sudu besar gula perang,
+            2 helai daun kunyit,
+            5 helai daun limau purut,
+            Garam,
+            6 biji bawang merah kecil,
+            4 ulas bawang putih,
+            2 biji bawang besar,
+            ½ inci lengkuas,
+            1 inci halia,
+            1 inci kunyit hidup,
+            6 batang serai,
+            1 sudu kecil jintan putih,
+            1 sudu kecil jintan manis,
+            20 biji cili kering (blend berasingan),
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Asam Pedas Ikan Pari Melaka"
+        url: "https://www.anekaresipi.com/2017/07/resepi-asam-pedas-ikan-pari-melaka.html"
+        ingredients: [
+            500 gm ikan pari segar,
+            5 biji bawang merah kecil,
+            2 ulas bawang putih,
+            ½ inci halia,
+            ½ inci kunyit hidup,
+            ½ inci belacan - dibakar,
+            15 tangkai cili kering,
+            10 batang bendi muda,
+            1 biji buah tomato,
+            1 cekak daun kesum,
+            Air asam jawa secukupnya,
+            3 cawan air - bergantung kepada kepekatan kuah yang diingini,
+            Garam dan gula secukup rasa,
+            4 sudu besar minyak masak,
+        ]
+        cooking_method: ""
+        dish_type: "lauk"
+        ingredient_types: ["halal"]
+    -   title: "Resepi Kuih Batang Buruk Asli"
+        url: "https://www.anekaresipi.com/2017/07/resepi-kuih-batang-buruk-asli.html"
+        ingredients: [
+            3 cawan tepung gandum,
+            1½ cawan tepung beras,
+            1 cawan santan,
+            2 biji telur,
+            Minyak masak untuk menggoreng,
+            2 cawan kacang hijau,
+            1 cawan gula pasir,
+            ½ sudu kecil garam,
+        ]
+        cooking_method: "fried"
+        dish_type: "kuih"
+        ingredient_types: ["halal"]
